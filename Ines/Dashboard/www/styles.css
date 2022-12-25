@@ -1,0 +1,26 @@
+.main-header .logo {
+  font-family: "Verdana", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: "white";
+}
+
+.content-wrapper {
+  background-color: #fff;
+}
+
+.logo-img {
+  position: absolute;
+  right: 0;
+}
+
+.control-sidebar-bg{
+  z-index: 99;
+}
+
+.box-body {
+  border-radius: 24px;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+}

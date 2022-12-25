@@ -1,0 +1,334 @@
+mois,annee,lib-depart, Nombre
+1,2017,Démissionnaire,1
+1,2017,FIN CONTRAT,1
+1,2017,Retraité,38
+10,2017,Décédé,15
+10,2017,Décés (par note),2
+10,2017,Démissionnaire,7
+10,2017,FIN CONTRAT,2
+10,2017,Retraité,266
+10,2017,Retraite Anticipée,3
+11,2017,Décédé,17
+11,2017,Décés (par note),1
+11,2017,Démissionnaire,7
+11,2017,FIN CONTRAT,3
+11,2017,Retraité,289
+11,2017,Retraite Anticipée,3
+12,2017,Décédé,17
+12,2017,Décés (par note),2
+12,2017,Démissionnaire,7
+12,2017,FIN CONTRAT,3
+12,2017,Retraité,311
+12,2017,Retraite Anticipée,3
+2,2017,Décédé,1
+2,2017,Décés (par note),4
+2,2017,Démission (par note),1
+2,2017,Démissionnaire,2
+2,2017,FIN CONTRAT,1
+2,2017,Retraité,73
+3,2017,Décédé,1
+3,2017,Décés (par note),5
+3,2017,Démission (par note),1
+3,2017,Démissionnaire,2
+3,2017,FIN CONTRAT,1
+3,2017,fin detachement (externe),1
+3,2017,Retraité,96
+4,2017,Décédé,5
+4,2017,Décés (par note),2
+4,2017,Démissionnaire,5
+4,2017,FIN CONTRAT,1
+4,2017,fin detachement (externe),1
+4,2017,Retraité,126
+5,2017,Décédé,7
+5,2017,Démissionnaire,6
+5,2017,FIN CONTRAT,2
+5,2017,fin detachement (externe),1
+5,2017,Retraité,154
+6,2017,Décédé,7
+6,2017,Décés (par note),1
+6,2017,Démissionnaire,6
+6,2017,FIN CONTRAT,2
+6,2017,Retraité,179
+7,2017,Décédé,7
+7,2017,Décés (par note),4
+7,2017,Démissionnaire,6
+7,2017,FIN CONTRAT,2
+7,2017,Retraité,200
+8,2017,Décédé,8
+8,2017,Décés (par note),3
+8,2017,Démissionnaire,6
+8,2017,FIN CONTRAT,2
+8,2017,Retraité,223
+9,2017,Décédé,11
+9,2017,Décés (par note),3
+9,2017,Démissionnaire,6
+9,2017,FIN CONTRAT,2
+9,2017,Retraité,244
+1,2018,fin detachement (externe),3
+1,2018,Retraité,33
+10,2018,Décédé,7
+10,2018,Décés (par note),6
+10,2018,Démissionnaire,2
+10,2018,fin detachement (externe),10
+10,2018,Retraité,247
+10,2018,Retraite Anticipée,16
+11,2018,Décédé,14
+11,2018,Décés (par note),3
+11,2018,Démissionnaire,2
+11,2018,fin detachement (externe),10
+11,2018,Retraité,274
+11,2018,Retraite Anticipée,22
+12,2018,Décédé,19
+12,2018,Décés (par note),2
+12,2018,Démissionnaire,2
+12,2018,fin detachement (externe),10
+12,2018,Retraité,299
+12,2018,Retraite Anticipée,26
+2,2018,Décés (par note),1
+2,2018,FIN CONTRAT,1
+2,2018,fin detachement (externe),3
+2,2018,Retraité,66
+3,2018,Décédé,1
+3,2018,Décés (par note),3
+3,2018,FIN CONTRAT,1
+3,2018,fin detachement (externe),3
+3,2018,Retraité,95
+3,2018,Retraite Anticipée,1
+4,2018,Décédé,5
+4,2018,fin detachement (externe),4
+4,2018,Retraité,125
+4,2018,Retraite Anticipée,5
+5,2018,Décédé,4
+5,2018,fin detachement (externe),8
+5,2018,Retraité,154
+5,2018,Retraite Anticipée,6
+6,2018,Décédé,4
+6,2018,fin detachement (externe),10
+6,2018,Retraité,174
+6,2018,Retraite Anticipée,6
+7,2018,Décédé,5
+7,2018,Décés (par note),1
+7,2018,fin detachement (externe),10
+7,2018,Retraité,196
+7,2018,Retraite Anticipée,14
+8,2018,Décédé,5
+8,2018,Décés (par note),1
+8,2018,Démission (par note),1
+8,2018,fin detachement (externe),10
+8,2018,Retraité,212
+8,2018,Retraite Anticipée,15
+9,2018,Décédé,6
+9,2018,Décés (par note),3
+9,2018,Démissionnaire,2
+9,2018,fin detachement (externe),10
+9,2018,Retraité,233
+9,2018,Retraite Anticipée,15
+1,2019,Décés (par note),1
+1,2019,fin detachement (externe),1
+1,2019,Retraité,26
+1,2019,Retraite Anticipée,7
+10,2019,Décédé,13
+10,2019,Décés (par note),2
+10,2019,Démissionnaire,7
+10,2019,Depart volontaire,26
+10,2019,fin detachement (externe),9
+10,2019,Radié,1
+10,2019,Retraité,167
+10,2019,Retraite Anticipée,31
+11,2019,Décédé,15
+11,2019,Décés (par note),3
+11,2019,Démissionnaire,8
+11,2019,Depart volontaire,26
+11,2019,fin detachement (externe),12
+11,2019,Radié,1
+11,2019,Retraité,168
+11,2019,Retraite Anticipée,36
+12,2019,Décédé,18
+12,2019,Décés (par note),2
+12,2019,Démissionnaire,8
+12,2019,Depart volontaire,26
+12,2019,fin detachement (externe),12
+12,2019,Radié,1
+12,2019,Retraité,168
+12,2019,Retraite Anticipée,43
+2,2019,Décédé,1
+2,2019,Décés (par note),2
+2,2019,Démissionnaire,1
+2,2019,fin detachement (externe),3
+2,2019,Retraité,63
+2,2019,Retraite Anticipée,9
+3,2019,Décédé,3
+3,2019,Décés (par note),1
+3,2019,Démissionnaire,3
+3,2019,Depart volontaire,13
+3,2019,fin detachement (externe),3
+3,2019,Retraité,91
+3,2019,Retraite Anticipée,12
+4,2019,Décédé,3
+4,2019,Décés (par note),3
+4,2019,Démissionnaire,5
+4,2019,Depart volontaire,23
+4,2019,FIN CONTRAT,44
+4,2019,fin detachement (externe),3
+4,2019,Radié,1
+4,2019,Retraité,117
+4,2019,Retraite Anticipée,17
+5,2019,Décédé,5
+5,2019,Décés (par note),3
+5,2019,Démissionnaire,5
+5,2019,Depart volontaire,25
+5,2019,fin detachement (externe),3
+5,2019,Radié,1
+5,2019,Retraité,139
+5,2019,Retraite Anticipée,17
+6,2019,Décédé,8
+6,2019,Décés (par note),1
+6,2019,Démissionnaire,5
+6,2019,Depart volontaire,26
+6,2019,fin detachement (externe),4
+6,2019,Radié,1
+6,2019,Retraité,156
+6,2019,Retraite Anticipée,17
+7,2019,Décédé,8
+7,2019,Décés (par note),3
+7,2019,Démissionnaire,5
+7,2019,Depart volontaire,26
+7,2019,fin detachement (externe),4
+7,2019,Radié,1
+7,2019,Retraité,170
+7,2019,Retraite Anticipée,20
+8,2019,Décédé,10
+8,2019,Décés (par note),2
+8,2019,Démissionnaire,6
+8,2019,Depart volontaire,26
+8,2019,fin detachement (externe),4
+8,2019,Radié,1
+8,2019,Retraité,170
+8,2019,Retraite Anticipée,21
+9,2019,Décédé,11
+9,2019,Décés (par note),2
+9,2019,Démissionnaire,6
+9,2019,Depart volontaire,26
+9,2019,fin detachement (externe),5
+9,2019,Radié,1
+9,2019,Retraité,170
+9,2019,Retraite Anticipée,25
+1,2020,Décés (par note),2
+1,2020,Retraite Anticipée,6
+10,2020,Décédé,10
+10,2020,Décés (par note),5
+10,2020,Démissionnaire,3
+10,2020,fin detachement (externe),5
+10,2020,Retraité,82
+10,2020,Retraite Anticipée,70
+11,2020,Décédé,15
+11,2020,Décés (par note),4
+11,2020,Démissionnaire,5
+11,2020,fin detachement (externe),6
+11,2020,Retraité,97
+11,2020,Retraite Anticipée,70
+12,2020,Décédé,17
+12,2020,Décés (par note),4
+12,2020,Démissionnaire,5
+12,2020,fin detachement (externe),6
+12,2020,Retraité,109
+12,2020,Retraite Anticipée,84
+2,2020,Décédé,2
+2,2020,Décés (par note),1
+2,2020,Retraite Anticipée,15
+3,2020,Décédé,3
+3,2020,Décés (par note),2
+3,2020,Retraite Anticipée,24
+4,2020,Décédé,4
+4,2020,Décés (par note),3
+4,2020,Démissionnaire,1
+4,2020,Retraite Anticipée,41
+5,2020,Décédé,4
+5,2020,Décés (par note),4
+5,2020,Démissionnaire,1
+5,2020,Retraité,14
+5,2020,Retraite Anticipée,41
+6,2020,Décédé,5
+6,2020,Décés (par note),4
+6,2020,Démissionnaire,1
+6,2020,fin detachement (externe),1
+6,2020,Retraité,20
+6,2020,Retraite Anticipée,42
+7,2020,Décédé,7
+7,2020,Décés (par note),2
+7,2020,Démissionnaire,1
+7,2020,fin detachement (externe),2
+7,2020,Retraité,26
+7,2020,Retraite Anticipée,49
+8,2020,Décédé,8
+8,2020,Décés (par note),2
+8,2020,Démissionnaire,1
+8,2020,fin detachement (externe),2
+8,2020,Retraité,51
+8,2020,Retraite Anticipée,50
+9,2020,Décédé,8
+9,2020,Décés (par note),3
+9,2020,Démissionnaire,2
+9,2020,fin detachement (externe),2
+9,2020,Retraité,71
+9,2020,Retraite Anticipée,65
+1,2021,Décédé,2
+1,2021,Démissionnaire,1
+1,2021,Retraité,17
+1,2021,Retraite Anticipée,10
+10,2021,Décédé,24
+10,2021,Décés (par note),4
+10,2021,Démissionnaire,4
+10,2021,fin detachement (externe),4
+10,2021,Retraité,49
+10,2021,Retraite Anticipée,87
+11,2021,Décédé,28
+11,2021,Décés (par note),2
+11,2021,Démissionnaire,4
+11,2021,fin detachement (externe),5
+11,2021,Retraité,49
+11,2021,Retraite Anticipée,97
+12,2021,Décédé,28
+12,2021,Décés (par note),4
+12,2021,Démissionnaire,4
+12,2021,fin detachement (externe),6
+12,2021,Radié,1
+12,2021,Retraité,51
+12,2021,Retraite Anticipée,101
+2,2021,Décédé,4
+2,2021,Démissionnaire,1
+2,2021,Retraité,28
+2,2021,Retraite Anticipée,13
+3,2021,Décédé,5
+3,2021,Démissionnaire,1
+3,2021,Retraité,28
+3,2021,Retraite Anticipée,18
+4,2021,Décédé,5
+4,2021,Démissionnaire,1
+4,2021,Retraité,28
+4,2021,Retraite Anticipée,28
+5,2021,Décédé,7
+5,2021,Démissionnaire,1
+5,2021,Retraité,28
+5,2021,Retraite Anticipée,51
+6,2021,Décédé,11
+6,2021,Démissionnaire,2
+6,2021,fin detachement (externe),2
+6,2021,Retraité,31
+6,2021,Retraite Anticipée,61
+7,2021,Décédé,14
+7,2021,Démissionnaire,2
+7,2021,fin detachement (externe),3
+7,2021,Retraité,33
+7,2021,Retraite Anticipée,66
+8,2021,Décédé,16
+8,2021,Démissionnaire,2
+8,2021,fin detachement (externe),3
+8,2021,Retraité,48
+8,2021,Retraite Anticipée,66
+9,2021,Décédé,21
+9,2021,Décés (par note),5
+9,2021,Démissionnaire,4
+9,2021,fin detachement (externe),4
+9,2021,Retraité,49
+9,2021,Retraite Anticipée,80
